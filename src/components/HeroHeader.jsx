@@ -7,7 +7,7 @@ export default function HeroHeader() {
     <section className="relative h-[70vh] w-full overflow-hidden rounded-2xl bg-gradient-to-br from-[#0f1115] via-[#0a0c10] to-[#141726]">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/igThmltzmqv5hkWo/scene.splinecode"
+          scene="https://prod.spline.design/NkcnsJpx2b5y-eA7/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
@@ -16,14 +16,14 @@ export default function HeroHeader() {
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center px-6">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-white/90 mb-4 border border-white/10 backdrop-blur">
           <Trophy className="h-4 w-4 text-yellow-300" />
-          <span className="text-xs tracking-wide uppercase">Valorant E-Sports Championship</span>
+          <span className="text-xs tracking-wide uppercase">Global E-Sports Championship</span>
         </div>
 
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-white drop-shadow-xl">
-          Loading Into The Arena
+          Play. Compete. Dominate.
         </h1>
         <p className="mt-4 max-w-2xl text-base md:text-lg text-white/80">
-          A modern, minimalist loading animation sets the stage while teams gear up for battle.
+          PUBG, FIFA, and Valorant — one stage, elite talent, and a 3D hero that zooms you right into the action.
         </p>
 
         <div className="mt-8 flex items-center gap-3">
