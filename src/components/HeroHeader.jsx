@@ -7,7 +7,7 @@ export default function HeroHeader() {
     <section className="relative h-[70vh] w-full overflow-hidden rounded-2xl bg-gradient-to-br from-[#0f1115] via-[#0a0c10] to-[#141726]">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/VdOqH2b0QJQ64b7j/scene.splinecode"
+          scene="https://prod.spline.design/igThmltzmqv5hkWo/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
@@ -20,10 +20,10 @@ export default function HeroHeader() {
         </div>
 
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-white drop-shadow-xl">
-          Rise to the Finals
+          Loading Into The Arena
         </h1>
         <p className="mt-4 max-w-2xl text-base md:text-lg text-white/80">
-          Assemble your squad, claim the rounds, and outplay the competition. Semifinals and Grand Final await the best.
+          A modern, minimalist loading animation sets the stage while teams gear up for battle.
         </p>
 
         <div className="mt-8 flex items-center gap-3">
